@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on research.
-🌱 I’m currently learning data science.
+🌱 I’m currently learning data science and looking for opportunities to take this further.
 👯 I’m looking to collaborate on interesting data science projects.
 📫 How to reach me: https://github.com/zf0206
 
